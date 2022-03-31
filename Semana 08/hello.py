@@ -1,0 +1,1 @@
+print("Olá, bem vindo a disciplina de Sistemas Embarcados II")
